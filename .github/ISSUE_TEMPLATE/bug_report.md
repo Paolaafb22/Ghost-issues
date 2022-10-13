@@ -22,7 +22,7 @@ Steps to reproduce the behavior:
 4. See error
 
 **E​VIDENCIAS**
-Conjunto de imagenes o videos que complementan la información dada en el reporte.
+Conjunto de imagenes o [videos] que complementan la información dada en el reporte.
 
 **C​ONTEXTO**
 En esta sección se debe detallar el contexto en el que fue ejecutado el escenario de prueba.
